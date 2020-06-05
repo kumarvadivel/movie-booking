@@ -1,0 +1,10 @@
+*{ 
+    overflow-x: hidden;
+}
+.table-reservation,td{
+    border: 3px solid black;
+    padding:15px 15px 15px 15px
+}
+.pad{
+    padding:10px 10px 10px 10px
+}
